@@ -1,0 +1,184 @@
+
+
+
+#include "bibli.h"
+
+
+
+void actualiserListeChevalier(t_listeChevaliers * la, BITMAP * caseChevalier, BITMAP* casecolallie)
+{
+    int i;
+    for(i=0; i<la->max; i++)
+    {
+        if((la->tab[i])!=NULL)
+        {
+
+
+            if(!(la->tab[i]->vivant))
+            {
+                enleverChevalier(la,i,caseChevalier, casecolallie);
+            }
+        }
+    }
+}
+
+void enleverChevalier(t_listeChevaliers * la,int i, BITMAP * caseChevalier, BITMAP* casecolallie)
+{
+    if(la->tab[i]!=NULL)
+    {
+        if((la->tab[i]->x>=200)&&(la->tab[i]->x<300)&&(la->tab[i]->y>=100)&&(la->tab[i]->y<200))
+        {
+            rectfill(caseChevalier,200,100,299,199,makecol(255,255,255));
+            rectfill(casecolallie,200,100,299,199,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=300)&&(la->tab[i]->x<400)&&(la->tab[i]->y>=100)&&(la->tab[i]->y<200))
+        {
+            rectfill(caseChevalier,300,100,399,199,makecol(255,255,255));
+            rectfill(casecolallie,300,100,399,199,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=400)&&(la->tab[i]->x<500)&&(la->tab[i]->y>=100)&&(la->tab[i]->y<200))
+        {
+            rectfill(caseChevalier,400,100,499,199,makecol(255,255,255));
+            rectfill(casecolallie,400,100,499,199,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=500)&&(la->tab[i]->x<600)&&(la->tab[i]->y>=100)&&(la->tab[i]->y<200))
+        {
+            rectfill(caseChevalier,500,100,599,199,makecol(255,255,255));
+            rectfill(casecolallie,500,100,599,199,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=600)&&(la->tab[i]->x<700)&&(la->tab[i]->y>=100)&&(la->tab[i]->y<200))
+        {
+            rectfill(caseChevalier,600,100,699,199,makecol(255,255,255));
+            rectfill(casecolallie,600,100,699,199,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=700)&&(la->tab[i]->x<800)&&(la->tab[i]->y>=100)&&(la->tab[i]->y<200))
+        {
+            rectfill(caseChevalier,700,100,799,199,makecol(255,255,255));
+            rectfill(casecolallie,700,100,799,199,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=200)&&(la->tab[i]->x<300)&&(la->tab[i]->y>=200)&&(la->tab[i]->y<300))
+        {
+            rectfill(caseChevalier,200,200,299,299,makecol(255,255,255));
+            rectfill(casecolallie,200,200,299,299,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=300)&&(la->tab[i]->x<400)&&(la->tab[i]->y>=200)&&(la->tab[i]->y<300))
+        {
+            rectfill(caseChevalier,300,200,399,299,makecol(255,255,255));
+            rectfill(casecolallie,300,200,399,299,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=400)&&(la->tab[i]->x<500)&&(la->tab[i]->y>=200)&&(la->tab[i]->y<300))
+        {
+            rectfill(caseChevalier,400,200,499,299,makecol(255,255,255));
+            rectfill(casecolallie,400,200,499,299,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=500)&&(la->tab[i]->x<600)&&(la->tab[i]->y>=200)&&(la->tab[i]->y<300))
+        {
+            rectfill(caseChevalier,500,200,599,299,makecol(255,255,255));
+            rectfill(casecolallie,500,200,599,299,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=600)&&(la->tab[i]->x<700)&&(la->tab[i]->y>=200)&&(la->tab[i]->y<300))
+        {
+            rectfill(caseChevalier,600,200,699,299,makecol(255,255,255));
+            rectfill(casecolallie,600,200,699,299,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=700)&&(la->tab[i]->x<800)&&(la->tab[i]->y>=200)&&(la->tab[i]->y<300))
+        {
+            rectfill(caseChevalier,700,200,799,299,makecol(255,255,255));
+            rectfill(casecolallie,700,200,799,299,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=200)&&(la->tab[i]->x<300)&&(la->tab[i]->y>=300)&&(la->tab[i]->y<400))
+        {
+            rectfill(caseChevalier,200,300,299,399,makecol(255,255,255));
+            rectfill(casecolallie,200,300,299,399,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=300)&&(la->tab[i]->x<400)&&(la->tab[i]->y>=300)&&(la->tab[i]->y<400))
+        {
+            rectfill(caseChevalier,300,300,399,399,makecol(255,255,255));
+            rectfill(casecolallie,300,300,399,399,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=400)&&(la->tab[i]->x<500)&&(la->tab[i]->y>=300)&&(la->tab[i]->y<400))
+        {
+            rectfill(caseChevalier,400,300,499,399,makecol(255,255,255));
+            rectfill(casecolallie,400,300,499,399,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=500)&&(la->tab[i]->x<600)&&(la->tab[i]->y>=300)&&(la->tab[i]->y<400))
+        {
+            rectfill(caseChevalier,500,300,599,399,makecol(255,255,255));
+            rectfill(casecolallie,500,300,599,399,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=600)&&(la->tab[i]->x<700)&&(la->tab[i]->y>=300)&&(la->tab[i]->y<400))
+        {
+            rectfill(caseChevalier,600,300,699,399,makecol(255,255,255));
+            rectfill(casecolallie,600,300,699,399,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=700)&&(la->tab[i]->x<800)&&(la->tab[i]->y>=300)&&(la->tab[i]->y<400))
+        {
+            rectfill(caseChevalier,700,300,799,399,makecol(255,255,255));
+            rectfill(casecolallie,700,300,799,399,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=200)&&(la->tab[i]->x<300)&&(la->tab[i]->y>=400)&&(la->tab[i]->y<500))
+        {
+            rectfill(caseChevalier,200,400,299,499,makecol(255,255,255));
+            rectfill(casecolallie,200,400,299,499,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=300)&&(la->tab[i]->x<400)&&(la->tab[i]->y>=400)&&(la->tab[i]->y<500))
+        {
+            rectfill(caseChevalier,300,400,399,499,makecol(255,255,255));
+            rectfill(casecolallie,300,400,399,499,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=400)&&(la->tab[i]->x<500)&&(la->tab[i]->y>=400)&&(la->tab[i]->y<500))
+        {
+            rectfill(caseChevalier,400,400,499,499,makecol(255,255,255));
+            rectfill(casecolallie,400,400,499,499,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=500)&&(la->tab[i]->x<600)&&(la->tab[i]->y>=400)&&(la->tab[i]->y<500))
+        {
+            rectfill(caseChevalier,500,400,599,499,makecol(255,255,255));
+            rectfill(casecolallie,500,400,599,499,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=600)&&(la->tab[i]->x<700)&&(la->tab[i]->y>=400)&&(la->tab[i]->y<500))
+        {
+            rectfill(caseChevalier,600,400,699,499,makecol(255,255,255));
+            rectfill(casecolallie,600,400,699,499,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=700)&&(la->tab[i]->x<800)&&(la->tab[i]->y>=400)&&(la->tab[i]->y<500))
+        {
+            rectfill(caseChevalier,700,400,799,499,makecol(255,255,255));
+            rectfill(casecolallie,700,400,799,499,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=200)&&(la->tab[i]->x<300)&&(la->tab[i]->y>=500)&&(la->tab[i]->y<600))
+        {
+            rectfill(caseChevalier,200,500,299,599,makecol(255,255,255));
+            rectfill(casecolallie,200,500,299,599,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=300)&&(la->tab[i]->x<400)&&(la->tab[i]->y>=500)&&(la->tab[i]->y<600))
+        {
+            rectfill(caseChevalier,300,500,399,599,makecol(255,255,255));
+            rectfill(casecolallie,300,500,399,599,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=400)&&(la->tab[i]->x<500)&&(la->tab[i]->y>=500)&&(la->tab[i]->y<600))
+        {
+            rectfill(caseChevalier,400,500,499,599,makecol(255,255,255));
+            rectfill(casecolallie,400,500,499,599,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=500)&&(la->tab[i]->x<600)&&(la->tab[i]->y>=500)&&(la->tab[i]->y<600))
+        {
+            rectfill(caseChevalier,500,500,599,599,makecol(255,255,255));
+            rectfill(casecolallie,500,500,599,599,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=600)&&(la->tab[i]->x<700)&&(la->tab[i]->y>=500)&&(la->tab[i]->y<600))
+        {
+            rectfill(caseChevalier,600,500,699,599,makecol(255,255,255));
+            rectfill(casecolallie,600,500,699,599,makecol(0,0,0));
+        }
+        if((la->tab[i]->x>=700)&&(la->tab[i]->x<800)&&(la->tab[i]->y>=500)&&(la->tab[i]->y<600))
+        {
+            rectfill(caseChevalier,700,500,799,599,makecol(255,255,255));
+            rectfill(casecolallie,700,500,799,599,makecol(0,0,0));
+        }
+        free(la->tab[i]);
+        la->tab[i]=NULL;
+        la->n--;
+    }
+}
+

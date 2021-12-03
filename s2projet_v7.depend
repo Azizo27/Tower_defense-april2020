@@ -1,0 +1,868 @@
+# depslib dependency file v1.0
+1587488324 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1587659298 d:\hdd\ece\informatique\codeblocks\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1587487669 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1587658921 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\animation.c
+	"bibli.h"
+
+1587487888 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1587494381 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587659298 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1587659452 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\main.c
+	"bibli.h"
+
+1587487241 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\menu.c
+	"bibli.h"
+
+1587659416 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1587658267 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1587488464 source:d:\hdd\ece\informatique\codeblocks\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1587946082 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588525435 f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588425929 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588494341 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\animation.c
+	"bibli.h"
+
+1588426175 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588426466 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588497748 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588525409 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\main.c
+	"bibli.h"
+
+1588525099 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\menu.c
+	"bibli.h"
+
+1588520205 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1588520205 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1587931183 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1587930784 c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1587930880 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1587898380 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\animation.c
+	"bibli.h"
+
+1587487888 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1587494381 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1587659298 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1587900686 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\main.c
+	"bibli.h"
+
+1587487241 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\menu.c
+	"bibli.h"
+
+1587927417 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1587658267 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1587928450 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1587946082 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588005248 c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588005687 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1587898380 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\animation.c
+	"bibli.h"
+
+1587487888 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588006459 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1587494381 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1587659298 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1587900686 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\main.c
+	"bibli.h"
+
+1587487241 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\menu.c
+	"bibli.h"
+
+1588005782 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1587658267 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1588005354 source:c:\users\abdelaziz\desktop\projetjc\s2projet_v7\s2projet_v7\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1587946082 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588019031 f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588019031 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588019031 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\animation.c
+	"bibli.h"
+
+1587487888 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1587494381 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1587659298 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588017139 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\main.c
+	"bibli.h"
+
+1587487241 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\menu.c
+	"bibli.h"
+
+1588018144 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1587658267 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1588005354 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588019493 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7nouv\s2projet_v7\s2projet_v7\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588358071 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588495096 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1587946082 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588089768 c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588058951 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\animation.c
+	"bibli.h"
+
+1587487888 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588005354 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1587494381 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1587659298 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588017139 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\main.c
+	"bibli.h"
+
+1587487241 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\menu.c
+	"bibli.h"
+
+1588087157 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1587658267 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1588061623 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588089725 source:c:\users\abdelaziz\desktop\derniereversionprojet\s2projet_v7 (1)\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1587946082 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588151543 f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588061623 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588149948 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\animation.c
+	"bibli.h"
+
+1587487888 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588005354 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588148527 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588151499 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588017139 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\main.c
+	"bibli.h"
+
+1587487241 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\menu.c
+	"bibli.h"
+
+1587658267 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1588149308 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1588112127 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1587946082 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588146781 c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588061623 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588146954 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\animation.c
+	"bibli.h"
+
+1587487888 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588005354 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588112127 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588148059 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588110599 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588017139 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\main.c
+	"bibli.h"
+
+1587487241 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\menu.c
+	"bibli.h"
+
+1588147374 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1587658267 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\desktop\projet final\s2projet_v7\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1587946082 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588180226 c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588177912 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588154745 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\animation.c
+	"bibli.h"
+
+1587487888 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588005354 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588183120 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588148527 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588151499 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588180352 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\main.c
+	"bibli.h"
+
+1587487241 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\menu.c
+	"bibli.h"
+
+1588182744 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1587658267 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\desktop\projet mercredi anglais\s2projet_v7\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1587946082 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588354442 c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588177912 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588201684 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\animation.c
+	"bibli.h"
+
+1587487888 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588347837 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588355861 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588148527 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588197353 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588332897 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\main.c
+	"bibli.h"
+
+1587487241 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\menu.c
+	"bibli.h"
+
+1588353112 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1588354740 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1588354623 source:c:\users\abdelaziz\desktop\projet mercredi soir\s2projet_v7\affichagepvallie.c
+	"bibli.h"
+
+1587946082 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588360841 f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588177912 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588362026 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\animation.c
+	"bibli.h"
+
+1587487888 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588362497 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588148527 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588360828 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588358071 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\main.c
+	"bibli.h"
+
+1587487241 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\menu.c
+	"bibli.h"
+
+1588362296 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1588363016 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1588358071 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588354623 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\aziz\s2projet_v7\affichagepvallie.c
+	"bibli.h"
+
+1588429589 source:f:\cours\cours d info\code blocks\projet sem 2 ing 1 v2\s2projet_v7\affichagepvallie.c
+	"bibli.h"
+
+1587946082 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588428794 c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588429589 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\affichagepvallie.c
+	"bibli.h"
+
+1588425929 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588362026 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\animation.c
+	"bibli.h"
+
+1588426175 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588358071 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588426421 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588426466 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588360828 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588429273 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\main.c
+	"bibli.h"
+
+1587487241 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\menu.c
+	"bibli.h"
+
+1588429711 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1588430038 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\desktop\code samedi matin\s2projet_v7\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1587946082 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588506460 c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588429589 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\affichagepvallie.c
+	"bibli.h"
+
+1588425929 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588494341 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\animation.c
+	"bibli.h"
+
+1588426175 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588358071 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588495096 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588426466 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1587488464 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588497748 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588506460 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\main.c
+	"bibli.h"
+
+1588497095 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\menu.c
+	"bibli.h"
+
+1588508350 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1588508350 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\desktop\projet dimanche matin\s2projet_v7\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1587946082 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588528031 c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588429589 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\affichagepvallie.c
+	"bibli.h"
+
+1588425929 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588494341 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\animation.c
+	"bibli.h"
+
+1588426175 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588358071 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588495096 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588426466 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1588526876 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588497748 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588528031 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\main.c
+	"bibli.h"
+
+1588525504 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\menu.c
+	"bibli.h"
+
+1588526812 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1588527122 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\desktop\projet dimanche soir\s2projet_v7 (1)\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1587946082 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588528031 c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588429589 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\affichagepvallie.c
+	"bibli.h"
+
+1588425929 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588494341 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\animation.c
+	"bibli.h"
+
+1588426175 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588358071 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588495096 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588426466 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1588526876 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588497748 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588528031 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\main.c
+	"bibli.h"
+
+1588525504 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\menu.c
+	"bibli.h"
+
+1588526812 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1588527122 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\desktop\projet allegro\abdelkefi abdelaziz chen eric carissan jean come\s2projet_v7 (1)\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1587946082 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588528031 c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588429589 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\affichagepvallie.c
+	"bibli.h"
+
+1588425929 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588494341 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\animation.c
+	"bibli.h"
+
+1588426175 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588358071 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588495096 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588426466 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1588526876 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588497748 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588528031 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\main.c
+	"bibli.h"
+
+1588525504 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\menu.c
+	"bibli.h"
+
+1588526812 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1588527122 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\desktop\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1587946082 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588528031 c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588429589 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\affichagepvallie.c
+	"bibli.h"
+
+1588425929 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588494341 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\animation.c
+	"bibli.h"
+
+1588426175 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588358071 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588495096 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588426466 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1588526876 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588497748 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588534091 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\main.c
+	"bibli.h"
+
+1588525504 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\menu.c
+	"bibli.h"
+
+1588526812 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1588527122 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587488324 source:c:\users\abdelaziz\onedrive\bureau\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
+1587942482 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\actualiisationchevalier.c
+	"bibli.h"
+
+1588524431 c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\bibli.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1588425989 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\affichagepvallie.c
+	"bibli.h"
+
+1588422329 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\ajouteretcreerchevalier.c
+	"bibli.h"
+
+1588490741 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\animation.c
+	"bibli.h"
+
+1588422575 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\carrérougetvert.c
+	"bibli.h"
+
+1588354471 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\collisionallie.c
+	"bibli.h"
+
+1588491496 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\ennemi.c
+	"bibli.h"
+
+1588422866 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\iconeetargent.c
+	"bibli.h"
+
+1588523276 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\initallegroetliste.c
+	"bibli.h"
+
+1588494148 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\lesdessins.c
+	"bibli.h"
+
+1588530491 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\main.c
+	"bibli.h"
+
+1588521904 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\menu.c
+	"bibli.h"
+
+1588523212 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\niveau1.c
+	"bibli.h"
+
+1588523522 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\niveau2et3.c
+	"bibli.h"
+
+1587484724 source:c:\users\abdelaziz\onedrive\bureau\informatique\abdelkefi-carissan-chen\abdelkefi abdelaziz carissan jean come chen eric\s2projet_v7\pelleetmortchevalier.c
+	"bibli.h"
+
